@@ -1,4 +1,4 @@
-# Glickmac.github.io
+# Christoph-Lauer.github.io
 
 The repository holds the code used on my mini-website  
 [christoph-lauer.github.io](http://christoph-lauer.github.io).
